@@ -13,3 +13,7 @@ so you can track your expense on the daily basis. it keeps track of the date of 
 
 ## How to run
     python expenses.py
+
+## Workflow
+
+![Expense tracker workflow](docs/workflow.png)
