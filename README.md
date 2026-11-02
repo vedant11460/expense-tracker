@@ -1,7 +1,6 @@
 # Expense Tracker CLI
 
-It is a simple command-line expense tracker project written in Python
-so you can track your expense on the daily basis. it keeps track of the date of expendeture, category of expense, amount and you can even filter the expenses with the category.
+A simple command-line expense tracker written in Python. It records the date, category and amount of each expense, shows a summary per category, and lets you filter expenses by category.
 
 ## Features
 - Add expenses with amount, category and today's date
